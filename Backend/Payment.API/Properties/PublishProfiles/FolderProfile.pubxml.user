@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\malit\Desktop\Projeler\mali\paymentAPI</_PublishTargetUrl>
+    <History>True|2022-06-10T11:22:19.2911962Z;True|2022-06-09T23:58:45.2316052+03:00;True|2022-06-09T23:37:47.3896580+03:00;</History>
+  </PropertyGroup>
+</Project>

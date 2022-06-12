@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07a15e89-6459-49b9-bc9f-fe09567ed7be": {
+      "ProjectGuid": "07a15e89-6459-49b9-bc9f-fe09567ed7be",
+      "DisplayName": "Payment.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
