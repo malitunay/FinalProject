@@ -13,7 +13,7 @@ Kullanıcı eklenirken random üretilen kredi kartı bilgileri ödemeyi alacak a
 Kullanıcı silme işleminde gerçekte nesne silinmez, isActive bilgisi false olarak güncellenir.
 
 ![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)]
-![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
+![][(https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
