@@ -12,7 +12,7 @@ Kullanıcı eklenirken random üretilen bir parola kullanıcının mail adresine
 Kullanıcı eklenirken random üretilen kredi kartı bilgileri ödemeyi alacak api nin kullandığı mongo db ye kaydedilir. (Kullanıcı ödeme yaparken yan tarafta kullanıcıya ait kredi kartı bilgilerini görür)
 Kullanıcı silme işleminde gerçekte nesne silinmez, isActive bilgisi false olarak güncellenir.
 
-![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
+![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)]
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
