@@ -2,7 +2,7 @@
 
 İlk çalıştırmada seeding ile veritabanına eklenen admin kullanıcısı ile sisteme giriş yapılarak metotlar kullanılabilir.
 
-![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-malitunay/blob/main/diagram.png)
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)
 
 ## Metotlar
 
