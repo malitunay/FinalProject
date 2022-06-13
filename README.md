@@ -39,52 +39,52 @@ Kullanıcı tarafında ise admin ile mesajlaşma yapılabilir ve okunmayan mesaj
 
 ### Veritabanı Diagramı
 
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)
 
 ### Admin (Site Yöneticisi)
 
 Login Ekranı:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/login.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/login.png)
 
 Kullanıcı Listesi:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/users.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/users.png)
 
 Kullanıcı Ekleme:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/adduser.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/adduser.png)
 
 Kullanıcı Güncelleme:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/updateuser.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/updateuser.png)
 
 Daire Ekleme / Daireyi Kullanıcıya Atama:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/addapartment.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/addapartment.png)
 
 Bir daireye bir fatura gönderme:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/addinvoice.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/addinvoice.png)
 
 Tüm dairelere birer fatura gönderme:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/addinvoicetoall.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/addinvoicetoall.png)
 
 Daire Listesi:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/apartmentlist.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/apartmentlist.png)
 
 Daire Güncelleme:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/updateapartment.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/updateapartment.png)
 
 Fatura Listesi:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/invoicelistadmin.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/invoicelistadmin.png)
 
 Mesajlaşma:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/messages.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/messages.png)
 
 
 
 ### User (Daire Sakini)
 
 Daireye Ait Fatura Listesi:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/invoiceofuser.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/invoiceofuser.png)
 
 Ödeme Ekranı:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/payment.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/payment.png)
 
 Mesajlaşma:
-![][(https://github.com/malitunay/FinalProject/blob/master/screenshots/messagesofuser.png)]
+![](https://github.com/malitunay/FinalProject/blob/master/screenshots/messagesofuser.png)
