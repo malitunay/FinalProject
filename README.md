@@ -2,8 +2,6 @@
 
 İlk çalıştırmada seeding ile veritabanına eklenen admin kullanıcısı ile sisteme giriş yapılarak metotlar kullanılabilir.
 
-![](https://github.com/malitunay/FinalProject/blob/master/screenshots/vt.jpg)
-
 ## Metotlar
 
 ### Kullanıcı Ekleme, Güncelleme ve Silme
